@@ -32,8 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Small problem occurred when making the loadchanges and savechanges method, wrong FileUtils library was uploaded to file, making for the methods to not be recognized.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
